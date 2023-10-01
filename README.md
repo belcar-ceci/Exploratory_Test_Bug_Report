@@ -1,1 +1,1 @@
-# Exploratory_Test_Bug_Report_QA
+# Exploratory_Test_Bug_Report
